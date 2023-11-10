@@ -1,4 +1,4 @@
-{
+module.exports = {
   "endOfLine": "auto",
   "semi": true,
   "singleQuote": true,
@@ -7,3 +7,4 @@
   "printWidth": 80,
   "arrowParens": "always"
 }
+
