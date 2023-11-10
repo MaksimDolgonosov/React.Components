@@ -1,0 +1,20 @@
+.search__panel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 700px;
+    height: 30px;
+}
+
+.search__input {
+    display: block;
+    width: 500px;
+    height: 30px;
+}
+
+.search__btn {
+    display: block;
+    width: 150px;
+    height: 30px;
+
+}
